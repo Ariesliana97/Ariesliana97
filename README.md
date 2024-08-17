@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ariesliana97
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Software development
+- 🌱 I’m currently learning Software Proceess Automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
